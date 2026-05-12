@@ -7,7 +7,7 @@ const products = [
         quantity : 1 ,
         price: 150.00,
         discount: "10% off",
-        image: "../images/product1.png",
+        image: "images/product1.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -16,7 +16,7 @@ const products = [
         quantity : 1 ,
         price: 45.00,
         discount: null,
-        image: "../images/product2.png",
+        image: "images/product2.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -25,7 +25,7 @@ const products = [
         quantity : 1 ,
         price: 210.00,
         discount: "15% off",
-        image: "../images/product3.png",
+        image: "images/product3.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -34,7 +34,7 @@ const products = [
         quantity : 1 ,
         price: 85.00,
         discount: null,
-        image: "../images/product4.png",
+        image: "images/product4.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -43,7 +43,7 @@ const products = [
         quantity : 1 ,
         price: 60.00,
         discount: "5% off",
-        image: "../images/product5.png",
+        image: "images/product5.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -52,7 +52,7 @@ const products = [
         quantity : 1 ,
         price: 32.00,
         discount: null,
-        image: "../images/product6.png",
+        image: "images/product6.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -61,7 +61,7 @@ const products = [
         quantity : 1 ,
         price: 180.00,
         discount: "20% off",
-        image: "../images/product7.png",
+        image: "images/product7.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -70,7 +70,7 @@ const products = [
         quantity : 1 ,
         price: 75.00,
         discount: null,
-        image: "../images/product8.png",
+        image: "images/product8.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -79,7 +79,7 @@ const products = [
         quantity : 1 ,
         price: 320.00,
         discount: "10% off",
-        image: "../images/product1.png",
+        image: "images/product1.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
@@ -88,7 +88,7 @@ const products = [
         quantity : 1 ,
         price: 25.00,
         discount: null,
-        image: "../images/product2.png",
+        image: "images/product2.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     }
 ];
